@@ -22,7 +22,6 @@ The scheduled meeting block is split each day as follows:
 | Tuesday    | Mike         | 2:15 PM – 2:50 PM | Ranger Hall 202 |
 | Wednesday  | Mike         | 2:15 PM – 2:50 PM | Ranger Hall 202 |
 | Thursday (Weeks 1–2) | Mike | 2:15 PM – 2:50 PM | Ranger Hall 202 |
-| Appointments | Mike       | [Book here](https://calendar.app.google/BE3evD4c4KU2F9Rp6) | In-person or via [Zoom](https://uri-edu.zoom.us/j/8658926757) |
 
 
 **Lab Schedule** *(begins Week 3)*
@@ -57,7 +56,7 @@ Upon successful completion of this course, each student will be able to:
 * [Problem Solving with C++](https://www.pearson.com/en-us/subject-catalog/p/problem-solving-with-c/P200000003225/9780137982226), 10th Ed., W. Savitch.
 
 
-**Lab and Mastery-Based Assessment (MBA) Policy:**
+### Lab and Mastery-Based Assessment (MBA) Policy:
 
 Lab periods will alternate between traditional instructional labs and assessment sessions throughout the semester. During designated *assessment weeks*, the scheduled lab time will be used for topic-based exams instead of a hands-on lab. Once a topic has been fully covered in lecture, its corresponding exam becomes available and remains open for the remainder of the semester. Students may choose which available topic exam(s) to take during any assessment session, based on their individual readiness and progress. 
 
