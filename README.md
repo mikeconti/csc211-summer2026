@@ -1,5 +1,5 @@
 ## CSC 211 - Computer Programming
-**Section 3000 (CRN 1380)** · Summer 2026 · May 18 – July 25, 2026
+**Section 3000** · Summer 2026 · May 18 – July 25, 2026
 
 
 ### Course Instructors
