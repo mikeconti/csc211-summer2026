@@ -51,13 +51,9 @@
 ---
 
 ## Deliverables (Submit one per group)
-Make a copy of the answer template (same as Lab 05).
 For each problem include:
-* **Screenshot** of "All tests passed" (Accepted verdict visible)
-* **Brief reflection** (1–2 sentences)
-* **Driver/Navigator at time of submission**
 
-Download as a single PDF named: `lab06.pdf` and submit to Gradescope.
+* .cpp code for each question
 
 ---
 
