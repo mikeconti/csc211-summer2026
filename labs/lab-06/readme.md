@@ -7,8 +7,6 @@
 * For each solved problem, **screenshot the "All test cases passed" page**.
 * Use **whiteboards, paper, and TVs** to plan, trace, and project code as needed.
 
-> :information_source: This set revisits the problems most pairs did not complete in Lab 05, then adds one new problem to push a little further.
-
 ---
 
 ## Pair-Programming Rules
