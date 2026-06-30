@@ -7,8 +7,6 @@
 * For each solved problem, **screenshot the "All test cases passed" page**.
 * Use **whiteboards, paper, and TVs** to plan, trace, and project code as needed.
 
-> :information_source: This set revisits the problems most pairs did not complete in Lab 05, then adds one new problem to push a little further.
-
 ---
 
 ## Pair-Programming Rules
@@ -53,13 +51,9 @@
 ---
 
 ## Deliverables (Submit one per group)
-Make a copy of the answer template (same as Lab 05).
 For each problem include:
-* **Screenshot** of "All tests passed" (Accepted verdict visible)
-* **Brief reflection** (1–2 sentences)
-* **Driver/Navigator at time of submission**
 
-Download as a single PDF named: `lab06.pdf` and submit to Gradescope.
+* .cpp code for each question
 
 ---
 
