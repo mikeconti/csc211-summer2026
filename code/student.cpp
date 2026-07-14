@@ -28,7 +28,7 @@ void buildStudent(Student &someStudent){
 
     std::cout << "Enter major " << std::endl;
 
-    std::cin >> someStudent.major;
+    std::cin >> someStudent.major;xq
 
     std::cout << "Enter ID " << std::endl;
 
